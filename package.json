@@ -1,0 +1,15 @@
+{
+  "name": "blogtemplate",
+  "version": "1.0.0",
+  "description": "A generic blogging template that can be used to create your own blog.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack DiSalvatore",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
